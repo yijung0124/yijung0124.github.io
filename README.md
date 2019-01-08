@@ -1,3 +1,3 @@
 # yijung0124.github.io
 
-This is Yi-Jung Chiang's Portfolio.
+This is Yi-Jung Chiang(Betty)'s Portfolio.
